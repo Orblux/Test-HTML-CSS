@@ -1,0 +1,46 @@
+/*
+style.css
+---------
+ 
+Version 1.1
+*/
+
+/* On travaille sur la balise body, donc sur TOUTE la page */
+body
+{
+    background-color: rgb(233,83,37); /* Le fond de la page sera noir */
+    color: black; /* Le texte de la page sera blanc */
+}
+
+h1
+{
+	color: red;
+	text-align: center;
+}
+
+.introduction:hover
+{
+	font-size: 14px;
+	font-family: Impact, Arial, "Arial Black", "Times New Roman", Serif;
+}
+
+mark
+{
+	background-color: white;
+	font-style: italic;
+}
+
+p
+{
+	text-align: justify;
+}
+
+.ImageFlottante
+{
+	float: left;
+}
+
+.StopImageFlottante
+{
+	clear: both;
+}
