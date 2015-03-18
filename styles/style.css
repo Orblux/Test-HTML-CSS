@@ -8,7 +8,7 @@ Version 1.1
 /* On travaille sur la balise body, donc sur TOUTE la page */
 body
 {
-    background-color: rgb(233,83,40); /* Le fond de la page sera noir */
+    background-color: rgb(233,83,37); /* Le fond de la page sera noir */
     color: black; /* Le texte de la page sera blanc */
 }
 
